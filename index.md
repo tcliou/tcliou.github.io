@@ -3,22 +3,22 @@
 Yahoo ABU Research and EC Search team
 
 ### People
-#### Tzu-Chiang Liou
-#### Alex Ou
-#### Brook Yang
-#### Chasel Su
-#### Hank Ting
-#### Jackal Wang
-#### James Liao
-#### Jerry Ni
-#### Pei-Yun Hsu
-#### Running Chao
-#### Sitos Lin
-#### Su-Chen Lin
-#### Tzu-Hei Yeh
-#### Tim Lee
-#### Tony Tasi
-#### Yu-Ting Chang
+- Tzu-Chiang Liou
+- Alex Ou
+- Brook Yang
+- Chasel Su
+- Hank Ting
+- Jackal Wang
+- James Liao
+- Jerry Ni
+- Pei-Yun Hsu
+- Running Chao
+- Sitos Lin
+- Su-Chen Lin
+- Tzu-Hei Yeh
+- Tim Lee
+- Tony Tasi
+- Yu-Ting Chang
 
 ### Products 
 
