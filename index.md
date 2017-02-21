@@ -2,28 +2,31 @@
 
 Yahoo ABU Research and EC Search team
 
-### Current People
-- Tzu-Chiang Liou
-- Alex Ou
+### Current Members
+- Tzu-Chiang Liou, is the Senior Manager of the Research Engineering team in Yahoo ABU (TW/HK markets). In which he led teams to provide solutions for various products on News and E-Commerce, such as Personalization, Recommendation, Computer Vision and E-Commerce Search. Tzu-Chiang sreceived his MPhil degree from Computer Laboratory, Cambridge University at 2010. 
+- Alex Ou, PhD National Taiwan University,
 - Brook Yang
-- Chasel Su
+- Chasel Su, MS National Taiwan University,
 - Hank Ting
 - Jackal Wang
-- James Liao
-- Jerry Ni
-- Pei-Yun Hsu
+- James Liao, PhD National Chiao Tung University,
+- Jerry Ni, MS National Taiwan University,
+- Pei-Yun Hsu, MS National Taiwan University,
 - Running Chao
-- Sitos Lin
-- Su-Chen Lin
-- Tzu-Hei Yeh
+- Sitos Lin, PhD National Taiwan University,
+- Su-Chen Lin, PhD National Taiwan University
+- Tzu-Hei Yeh, MS National Taiwan University,
 - Tim Lee
 - Tony Tasi
-- Yu-Ting Chang
-- Janet Sung
+- Yu-Ting Chang, MS National Taiwan University,
+- Janet Sung, BS National Taiwan University,
 
 ### Alumni
 
 ### Products 
+- Personalization Model for 
+- Personalization Model for TW/HK Yahoo Frontpage
+- Recommendation Model for Yahoo 
 
 ### Publications
 #### [Paper]
