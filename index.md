@@ -2,7 +2,7 @@
 
 Yahoo ABU Research and EC Search team
 
-### People
+### Current People
 - Tzu-Chiang Liou
 - Alex Ou
 - Brook Yang
@@ -19,6 +19,9 @@ Yahoo ABU Research and EC Search team
 - Tim Lee
 - Tony Tasi
 - Yu-Ting Chang
+- Janet Sung
+
+### Alumni
 
 ### Products 
 
@@ -29,12 +32,16 @@ Yahoo ABU Research and EC Search team
 - Jen-Hao Hsiao, "Variant Eigen Hash (VEH): A Low Bit-rate Image Feature For Efficient Mobile Visual Search and Online Shopping," IEEE International Workshop on Mobile Multimedia Computing (MMC 2015, ICME Workshop), 2015.
 - Kevin Lin, Huei-Fang Yang, Kuan-Hsien Liu, Jen-Hao Hsiao and Chu-Song Chen, "Rapid Clothing Retrieval via Deep Learning of Binary Codes and Hierarchical Search," ICMR, 2015.
 - Jen-Hao Hsiao and Li-Jia Li, "On Visual Similarity Based Interactive Product Recommendation For Online Shopping," IEEE International Conference on Image Processing, 2014.
-#### [Patent]
-- “Speeded Up Latent Binary Code for Efficient and Effective Visual Search”, US Patent Application, 2015. (Yahoo ID15-11081)
-- “Mobile Visual Search Using Deep Variant Coding”, US Patent Application, 2015. (Assignee: Yahoo, ID14-10957)
-- “An Ubiquitous Mobile Shopping based on Interactive Background Daemon”, ROC Patent Application. (Yahoo ID15-10983)
-- “System And Method For Improved Server Performance For A Deep Feature Based Coarse-To-Fine Fast Search”, US Patent Application, 2015. (Yahoo ID14-10814)
-- “Speeded Up Object Detection: A Ten-fold Faster Object Detection Framework”, US Patent Application (Yahoo  ID14-10805)
-- “E-Commerce Recommendation System And Method”, US Patent Application, 2015. (Yahoo ID14-10635)
-- “Image Search Method, and Mobile Communication Device, Database Management System and Computer Program Product Using the Same”, ROC Patent Application (Yahoo ID14-10352)
+
+#### [Patent/Defensive Publication]
+- "DICE: Deep Invariant Code for Robust Sub-Image Retrieval in E-commerce", Yahoo ID16-11622
+- "AutoNet: An One-Step Posting Paradigm for Auction in E-Commerce", Yahoo ID16-11686
+- "CDF: Configurable Deep Feature for Multi-Attribute E- commerce Product Retrieval", Yahoo ID16-11712
+- “Speeded Up Latent Binary Code for Efficient and Effective Visual Search”, Yahoo ID15-11081
+- “Mobile Visual Search Using Deep Variant Coding”, Yahoo, ID14-10957
+- “An Ubiquitous Mobile Shopping based on Interactive Background Daemon”, Yahoo ID15-10983
+- “System And Method For Improved Server Performance For A Deep Feature Based Coarse-To-Fine Fast Search”, Yahoo ID14-10814
+- “Speeded Up Object Detection: A Ten-fold Faster Object Detection Framework”, Yahoo ID14-10805
+- “E-Commerce Recommendation System And Method”, Yahoo ID14-10635
+- “Image Search Method, and Mobile Communication Device, Database Management System and Computer Program Product Using the Same”, Yahoo ID14-10352
 
