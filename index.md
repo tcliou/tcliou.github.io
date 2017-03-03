@@ -19,9 +19,24 @@ Yahoo ABU Research and EC Search team
 - Tim Lee
 - Tony Tasi
 - Yu-Ting Chang, MS National Taiwan University,
-- Janet Sung, BS National Taiwan University,
+- Janet Sung (intern), BS National Taiwan University,
 
-### Alumni
+### Alumni 
+- Tai-Yi Kuo 郭泰頤, Roger (Summer Intern 2012)
+- Wen-Yu Chen 陳玟妤, Fifi (Summer Intern 2012)
+- Hong-Ieng Hoi 許鴻英, Ivy (Summer Intern 2012, Porject intern 2012 ~ 2013)
+- Chi-Chia Huang 黃啟嘉 (Summer Intern 2013, Porject intern 2013 ~ 2014)
+- Yuxian Liang, Eugene (Summer Intern 2013, Porject intern 2013 ~ 2014)
+- Wen-Yuan Zhu 朱文園 (Porject intern 2014 ~ 2015)
+- Wen-Yuah Shih 施文岳 (Porject intern 2014 ~ 2015)
+- Yu-Lin Chien 簡友琳, York (Summer Intern 2013, Porject intern 2013 ~ 2014)
+- Yu-Ting Chang 張宇婷 (Summer Intern 2013, Porject intern 2013 ~ 2014)
+- Shih-Ying Chen 陳世穎, Ken (Porject intern 2014 ~ 2015)
+- Kuan Ying Lu, (Porject intern 2014 ~ 2015)
+- Arden Chiu 邱裕明
+- I-An Chen 陳怡安
+- Jen-Hao Hsiao 蕭人豪
+- Chih-Chieh Hung 洪智傑
 
 ### Products 
 - Personalization Model for 
