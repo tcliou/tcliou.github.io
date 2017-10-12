@@ -39,15 +39,17 @@ Yahoo ABU Research and EC Search team
 - Chih-Chieh Hung 洪智傑
 
 ### Products 
-- Personalization Model for 
+- Personalization Model for TW/HK e-Commerce
 - Personalization Model for TW/HK Yahoo Frontpage
 - Recommendation Model for Yahoo 
 
-### 
-- Master Inventor 2016
-- Talk @ Tech Pulse 2012
-- Talk @ Tech Pulse 2016
+### Talk
+- Talk @ Yahoo Tech Pulse 2012
+- Talk @ Yahoo Tech Pulse 2016
 - Talk @ Science Week 
+
+### Honor
+- Yahoo Master Inventor 2016, Jen-Hao Hsiao
 
 ### Publications
 #### [Paper]
