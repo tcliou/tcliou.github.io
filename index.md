@@ -43,8 +43,15 @@ Yahoo ABU Research and EC Search team
 - Personalization Model for TW/HK Yahoo Frontpage
 - Recommendation Model for Yahoo 
 
+### 
+- Master Inventor 2016
+- Talk @ Tech Pulse 2012
+- Talk @ Tech Pulse 2016
+- Talk @ Science Week 
+
 ### Publications
 #### [Paper]
+- Akshay Soni, Aasish Pappu, Jerry Chia-mau Ni and Troy Chevalier, "POST-PROCESSING TECHNIQUES FOR IMPROVING PREDICTIONS OF MULTILABEL LEARNING APPROACHES", IJCNLP 2017.
 - Liangliang Cao, Jenhao Hsiao, Paloma de Juan, Yuncheng Li, and Bart Thomee, "Incremental Learning for Fine-Grained Image Recognition," ICMR 2016.
 - Kevin Lin, Huei-Fang Yang, Jen-Hao Hsiao, Chu-Song Chen, "Deep Learning of Binary Hash Codes for Fast Image Retrieval," The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops,  pp. 27-35, 2015.
 - Jen-Hao Hsiao, "Variant Eigen Hash (VEH): A Low Bit-rate Image Feature For Efficient Mobile Visual Search and Online Shopping," IEEE International Workshop on Mobile Multimedia Computing (MMC 2015, ICME Workshop), 2015.
@@ -52,6 +59,7 @@ Yahoo ABU Research and EC Search team
 - Jen-Hao Hsiao and Li-Jia Li, "On Visual Similarity Based Interactive Product Recommendation For Online Shopping," IEEE International Conference on Image Processing, 2014.
 
 #### [Patent/Defensive Publication]
+- "Post-Processing Techniques for Improving Predictions of Multilabel Learning Approaches", Yahoo ID17-11924
 - "DICE: Deep Invariant Code for Robust Sub-Image Retrieval in E-commerce", Yahoo ID16-11622
 - "AutoNet: An One-Step Posting Paradigm for Auction in E-Commerce", Yahoo ID16-11686
 - "CDF: Configurable Deep Feature for Multi-Attribute E- commerce Product Retrieval", Yahoo ID16-11712
